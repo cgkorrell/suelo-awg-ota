@@ -1,2 +1,2 @@
-AWG_1682_DEV
-https://raw.githubusercontent.com/cgkorrell/suelo-awg-ota/main/AWG_1682_DEV.bin
+AWG_1683_DEV
+https://raw.githubusercontent.com/cgkorrell/suelo-awg-ota/main/AWG_1683_DEV.bin
