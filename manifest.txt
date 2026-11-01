@@ -1,2 +1,2 @@
-AWG_1687_DEV
-https://raw.githubusercontent.com/cgkorrell/suelo-awg-ota/main/AWG_1687_DEV.bin
+AWG_1687_FAST_OTA_DEV
+https://raw.githubusercontent.com/cgkorrell/suelo-awg-ota/main/AWG_1687_FAST_OTA_DEV.bin
